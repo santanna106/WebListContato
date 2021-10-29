@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Entities\BaseEntity.cs~RFdff5967.TMP" />
+    <None Remove="Entities\Contato.cs~RFe00e7c7.TMP" />
+    <None Remove="Interfaces\IRepository.cs~RFe0ad671.TMP" />
+  </ItemGroup>
+
+</Project>
