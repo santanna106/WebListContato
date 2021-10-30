@@ -5,9 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Entities\BaseEntity.cs~RF1112041f.TMP" />
     <None Remove="Entities\BaseEntity.cs~RFdff5967.TMP" />
     <None Remove="Entities\Contato.cs~RFe00e7c7.TMP" />
     <None Remove="Interfaces\IRepository.cs~RFe0ad671.TMP" />
+    <None Remove="ViewModels\ContatoViewModel.cs~RF11076b1b.TMP" />
   </ItemGroup>
 
 </Project>

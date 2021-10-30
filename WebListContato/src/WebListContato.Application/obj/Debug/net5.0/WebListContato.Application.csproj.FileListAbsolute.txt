@@ -357,3 +357,5 @@ D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Applicat
 D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Application\obj\Debug\net5.0\WebListContato.Application.genruntimeconfig.cache
 D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Application\obj\Debug\net5.0\Razor\Views\Contato\Index.cshtml.g.cs
 D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Application\obj\Debug\net5.0\Razor\Views\Login\Index.cshtml.g.cs
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Application\bin\Debug\net5.0\WebListContato.Domain.dll
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Application\bin\Debug\net5.0\WebListContato.Domain.pdb

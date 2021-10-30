@@ -6,6 +6,6 @@
         {
             Id = id;
         }
-        public virtual TKeyType Id { get; }
+        public virtual TKeyType Id { get; set; }
     }
 }

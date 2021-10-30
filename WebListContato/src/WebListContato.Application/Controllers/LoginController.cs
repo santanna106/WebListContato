@@ -1,8 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using WebListContato.Domain.ViewModels;
 
 namespace WebListContato.Application.Controllers
 {
@@ -11,6 +8,14 @@ namespace WebListContato.Application.Controllers
         public IActionResult Index()
         {
             return View();
+        }
+        [HttpPost]
+        public IActionResult Index(UsuarioViewModel usuarioViewModel)
+        {
+            
+            if(!ModelState.IsValid) return View(usuarioViewModel);
+
+            return RedirectToAction("Index");
         }
     }
 }

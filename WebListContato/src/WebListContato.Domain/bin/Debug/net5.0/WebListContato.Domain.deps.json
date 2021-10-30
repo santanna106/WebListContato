@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WebListContato.Domain/1.0.0": {
+        "runtime": {
+          "WebListContato.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebListContato.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
