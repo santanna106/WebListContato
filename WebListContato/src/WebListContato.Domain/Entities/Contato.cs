@@ -11,5 +11,6 @@ namespace WebListContato.Domain.Entities
         public string Telefone { get; set; }
         public string Logradouro { get; set; }
         public DateTime DataNascimento { get; set; }
+        public string Email { get; set; }
     }
 }

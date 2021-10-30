@@ -1,10 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
 using WebListContato.Application.Models;
 
 namespace WebListContato.Application.Controllers
@@ -17,15 +14,32 @@ namespace WebListContato.Application.Controllers
         {
             _logger = logger;
         }
-
+        [Authorize]
         public IActionResult Index()
         {
+            var usuario = "Anônimo";
+            var autenticado = false;
+            if (HttpContext.User.Identity.IsAuthenticated)
+            {
+                usuario = HttpContext.User.Identity.Name;
+                autenticado = true;
+            }
+            else
+            {
+                usuario = "Não Logado";
+                autenticado = false;
+            }
+
+            ViewBag.usuario = usuario;
+            ViewBag.autenticado = autenticado;
             return View();
         }
 
+        [Authorize]
         public IActionResult Privacy()
         {
-            return View();
+            var usuario = "Teste";
+            return View(usuario);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
