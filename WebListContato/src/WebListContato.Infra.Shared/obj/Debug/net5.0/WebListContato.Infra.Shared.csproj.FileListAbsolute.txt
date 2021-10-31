@@ -1,0 +1,15 @@
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Shared\bin\Debug\net5.0\WebListContato.Infra.Shared.deps.json
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Shared\bin\Debug\net5.0\WebListContato.Infra.Shared.dll
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Shared\bin\Debug\net5.0\ref\WebListContato.Infra.Shared.dll
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Shared\bin\Debug\net5.0\WebListContato.Infra.Shared.pdb
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Shared\bin\Debug\net5.0\WebListContato.Domain.dll
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Shared\bin\Debug\net5.0\WebListContato.Domain.pdb
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Shared\obj\Debug\net5.0\WebListContato.Infra.Shared.csproj.AssemblyReference.cache
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Shared\obj\Debug\net5.0\WebListContato.Infra.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Shared\obj\Debug\net5.0\WebListContato.Infra.Shared.AssemblyInfoInputs.cache
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Shared\obj\Debug\net5.0\WebListContato.Infra.Shared.AssemblyInfo.cs
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Shared\obj\Debug\net5.0\WebListContato.Infra.Shared.csproj.CoreCompileInputs.cache
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Shared\obj\Debug\net5.0\WebListContato.Infra.Shared.csproj.CopyComplete
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Shared\obj\Debug\net5.0\WebListContato.Infra.Shared.dll
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Shared\obj\Debug\net5.0\ref\WebListContato.Infra.Shared.dll
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Shared\obj\Debug\net5.0\WebListContato.Infra.Shared.pdb

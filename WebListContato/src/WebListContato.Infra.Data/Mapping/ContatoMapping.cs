@@ -30,11 +30,33 @@ namespace WebListContato.Infra.Data.Mapping
                 .HasColumnName("dddcelular")
                 .HasColumnType("varchar(100)");
 
+            builder.Property(prop => prop.Celular)
+               .HasConversion(prop => prop.ToString(), prop => prop)
+               .IsRequired()
+               .HasColumnName("celular")
+               .HasColumnType("varchar(100)");
+
+            builder.Property(prop => prop.DDDTelefone)
+           .HasConversion(prop => prop.ToString(), prop => prop)
+           .IsRequired()
+           .HasColumnName("dddtelefone")
+           .HasColumnType("varchar(100)");
+
             builder.Property(prop => prop.Telefone)
                .HasConversion(prop => prop.ToString(), prop => prop)
                .IsRequired()
                .HasColumnName("telefone")
                .HasColumnType("varchar(100)");
+
+            builder.Property(prop => prop.Logradouro)
+              .HasConversion(prop => prop.ToString(), prop => prop)
+              .IsRequired()
+              .HasColumnName("logradouro")
+              .HasColumnType("varchar(100)");
+
+            builder.Property(prop => prop.DataNascimento)
+            .HasColumnName("datanascimento")
+            .HasColumnType("datetime");
         }
     }
 }

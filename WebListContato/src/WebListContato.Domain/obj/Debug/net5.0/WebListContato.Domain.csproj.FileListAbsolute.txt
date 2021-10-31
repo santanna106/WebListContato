@@ -2,7 +2,6 @@ D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Domain\b
 D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Domain\bin\Debug\net5.0\WebListContato.Domain.dll
 D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Domain\bin\Debug\net5.0\ref\WebListContato.Domain.dll
 D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Domain\bin\Debug\net5.0\WebListContato.Domain.pdb
-D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Domain\obj\Debug\net5.0\WebListContato.Domain.csproj.AssemblyReference.cache
 D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Domain\obj\Debug\net5.0\WebListContato.Domain.GeneratedMSBuildEditorConfig.editorconfig
 D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Domain\obj\Debug\net5.0\WebListContato.Domain.AssemblyInfoInputs.cache
 D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Domain\obj\Debug\net5.0\WebListContato.Domain.AssemblyInfo.cs

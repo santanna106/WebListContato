@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WebListContato.Infra.Shared/1.0.0": {
+        "dependencies": {
+          "WebListContato.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WebListContato.Infra.Shared.dll": {}
+        }
+      },
+      "WebListContato.Domain/1.0.0": {
+        "runtime": {
+          "WebListContato.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebListContato.Infra.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebListContato.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

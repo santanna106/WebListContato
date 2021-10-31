@@ -1,0 +1,15 @@
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Data\bin\Debug\net5.0\WebListContato.Infra.Data.deps.json
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Data\bin\Debug\net5.0\WebListContato.Infra.Data.dll
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Data\bin\Debug\net5.0\ref\WebListContato.Infra.Data.dll
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Data\bin\Debug\net5.0\WebListContato.Infra.Data.pdb
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Data\bin\Debug\net5.0\WebListContato.Domain.dll
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Data\bin\Debug\net5.0\WebListContato.Domain.pdb
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Data\obj\Debug\net5.0\WebListContato.Infra.Data.csproj.AssemblyReference.cache
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Data\obj\Debug\net5.0\WebListContato.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Data\obj\Debug\net5.0\WebListContato.Infra.Data.AssemblyInfoInputs.cache
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Data\obj\Debug\net5.0\WebListContato.Infra.Data.AssemblyInfo.cs
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Data\obj\Debug\net5.0\WebListContato.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Data\obj\Debug\net5.0\WebListContato.Infra.Data.csproj.CopyComplete
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Data\obj\Debug\net5.0\WebListContato.Infra.Data.dll
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Data\obj\Debug\net5.0\ref\WebListContato.Infra.Data.dll
+D:\Gabriel\ModelosProjetos\.Net\Razor\WebListContato\src\WebListContato.Infra.Data\obj\Debug\net5.0\WebListContato.Infra.Data.pdb
